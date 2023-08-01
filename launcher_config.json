@@ -25,5 +25,5 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 	],
 	"clientFolder": "Tibia",
 	"newClientUrl" : "https://github.com/Mortera-world/mortera/archive/refs/heads/main.zip",
-	"clientExecutable": "client.exe"
+	"clientExecutable": "mortera.exe"
 }
